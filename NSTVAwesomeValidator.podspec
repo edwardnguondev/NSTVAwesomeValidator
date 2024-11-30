@@ -18,17 +18,17 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+                            A Swift framework for validating email, password.
+  DESC
 
-  s.homepage         = 'https://github.com/34115811/NSTVAwesomeValidator'
+  s.homepage         = 'https://github.com/edwardnguondev/NSTVAwesomeValidator.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '34115811' => 'sotheavuth.nguon@yahoo.com' }
-  s.source           = { :git => 'https://github.com/34115811/NSTVAwesomeValidator.git', :tag => s.version.to_s }
+  s.author           = { 'Sotheavuth Nguon' => 'nguonsotheavuth1@gmail.com' }
+  s.source           = { :git => 'https://github.com/edwardnguondev/NSTVAwesomeValidator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'NSTVAwesomeValidator/Classes/**/*'
   

@@ -22,7 +22,7 @@ pod 'NSTVAwesomeValidator'
 
 ## Author
 
-34115811, sotheavuth.nguon@yahoo.com
+Sotheavuth Nguon, nguonsotheavuth1@gmail.com
 
 ## License
 

@@ -1,0 +1,16 @@
+PODS:
+  - NSTVAwesomeValidator (0.1.0)
+
+DEPENDENCIES:
+  - NSTVAwesomeValidator (from `../`)
+
+EXTERNAL SOURCES:
+  NSTVAwesomeValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSTVAwesomeValidator: d62dae170d6447ba56454a0753e87a03d1cb8d16
+
+PODFILE CHECKSUM: 2fc74a1c15808d143c5e29a85705a90ca0c429f1
+
+COCOAPODS: 1.16.2

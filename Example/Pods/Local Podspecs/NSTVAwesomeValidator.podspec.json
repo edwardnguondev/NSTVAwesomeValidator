@@ -1,0 +1,22 @@
+{
+  "name": "NSTVAwesomeValidator",
+  "version": "0.1.0",
+  "summary": "A short description of NSTVAwesomeValidator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/34115811/NSTVAwesomeValidator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "34115811": "sotheavuth.nguon@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/34115811/NSTVAwesomeValidator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NSTVAwesomeValidator/Classes/**/*"
+}

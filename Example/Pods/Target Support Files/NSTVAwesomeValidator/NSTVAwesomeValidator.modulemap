@@ -1,0 +1,6 @@
+framework module NSTVAwesomeValidator {
+  umbrella header "NSTVAwesomeValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}
